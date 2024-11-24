@@ -1,0 +1,17 @@
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\obj\Debug\net6.0-windows\WinFormsAppPictureBoxPro.Form1.resources
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\obj\Debug\net6.0-windows\WinFormsAppPictureBoxPro.Properties.Resources.resources
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\obj\Debug\net6.0-windows\WinFormsAppPictureBoxPro.csproj.GenerateResource.cache
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\obj\Debug\net6.0-windows\WinFormsAppPictureBoxPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\obj\Debug\net6.0-windows\WinFormsAppPictureBoxPro.AssemblyInfoInputs.cache
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\obj\Debug\net6.0-windows\WinFormsAppPictureBoxPro.AssemblyInfo.cs
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\obj\Debug\net6.0-windows\WinFormsAppPictureBoxPro.csproj.CoreCompileInputs.cache
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\bin\Debug\net6.0-windows\WinFormsAppPictureBoxPro.exe
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\bin\Debug\net6.0-windows\WinFormsAppPictureBoxPro.deps.json
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\bin\Debug\net6.0-windows\WinFormsAppPictureBoxPro.runtimeconfig.json
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\bin\Debug\net6.0-windows\WinFormsAppPictureBoxPro.dll
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\bin\Debug\net6.0-windows\WinFormsAppPictureBoxPro.pdb
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\obj\Debug\net6.0-windows\WinFormsAppPictureBoxPro.dll
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\obj\Debug\net6.0-windows\refint\WinFormsAppPictureBoxPro.dll
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\obj\Debug\net6.0-windows\WinFormsAppPictureBoxPro.pdb
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\obj\Debug\net6.0-windows\WinFormsAppPictureBoxPro.genruntimeconfig.cache
+C:\Users\valer\Documents\CursoC#\WinFormsAppPictureBoxPro\obj\Debug\net6.0-windows\ref\WinFormsAppPictureBoxPro.dll
